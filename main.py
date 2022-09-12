@@ -30,3 +30,5 @@ config_commands = [ 'logging buffered 20000',
                     'no logging console' ]
 output = net_connect.send_config_set(config_commands)
 print(output)
+
+https://www.youtube.com/watch?v=HKuL4Xu3W5M
